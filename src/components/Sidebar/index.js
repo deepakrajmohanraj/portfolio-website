@@ -97,7 +97,7 @@ const Sidebar = () => {
         </li>
         
         <li>
-          <a href="skype:live:.cid.afa9345d97ee6a80?call" rel="noreferrer" target="_blank">
+          <a href="skype:live:.cid.afa9345d97ee6a80?chat" rel="noreferrer" target="_blank">
             <FontAwesomeIcon
               icon={faSkype}
               color="#4d4d4e"
