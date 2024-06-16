@@ -17,7 +17,6 @@
     font-weight: 400;
 
     &:before {
-      content: '<h1>';
       font-family: 'La Belle Aurore', cursive;
       color: #ffd700;
       font-size: 18px;
@@ -28,7 +27,6 @@
     }
 
     &:after {
-      content: '<h1/>';
       font-family: 'La Belle Aurore', cursive;
       color: #ffd700;
       font-size: 18px;
