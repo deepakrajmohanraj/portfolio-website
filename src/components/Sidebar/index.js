@@ -1,7 +1,6 @@
 import './index.scss'
 import { useState } from 'react'
 import LogoS from '../../assets/images/logo-s.png'
-// import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
@@ -25,7 +24,7 @@ const Sidebar = () => {
     <div className="nav-bar">
       <Link 
         className="logo"
-        to="portfolio-website/"
+        to="/"
         onClick={() => setShowNav(false)}>
         <img src={LogoS} alt="Logo" />
         {/* <img className="sub-logo" src={LogoSubtitle} alt="slobodan" /> */}
@@ -34,21 +33,21 @@ const Sidebar = () => {
         <NavLink 
           exact="true"
           activeclassname="active"
-          to="portfolio-website/"
+          to="/"
           onClick={() => setShowNav(false)}>
           <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
         </NavLink>
         <NavLink 
           activeclassname="active"
           className="about-link"
-          to="portfolio-website/about"
+          to="/about"
           onClick={() => setShowNav(false)}>
           <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
         </NavLink>
         <NavLink
           activeclassname="active"
           className="portfolio-link"
-          to="portfolio-website/portfolio"
+          to="/portfolio"
           onClick={() => setShowNav(false)}
         >
           <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
@@ -56,7 +55,7 @@ const Sidebar = () => {
         <NavLink
           activeclassname="active"
           className="contact-link"
-          to="portfolio-website/contact"
+          to="/contact"
           onClick={() => setShowNav(false)}
         >
           <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
