@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.f855e6bc.css",
-    "main.js": "/portfolio-website/static/js/main.95019890.js",
-    "static/js/453.aac68abc.chunk.js": "/portfolio-website/static/js/453.aac68abc.chunk.js",
-    "static/media/logo.svg": "/portfolio-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portfolio-website/static/css/main.0ee18050.css",
+    "main.js": "/portfolio-website/static/js/main.526123f7.js",
+    "static/js/787.67b99310.chunk.js": "/portfolio-website/static/js/787.67b99310.chunk.js",
+    "static/media/my-photo.png": "/portfolio-website/static/media/my-photo.fae68f67033e74e6c4ef.png",
+    "static/media/logo-s.png": "/portfolio-website/static/media/logo-s.39d9115e420f1103a9bf.png",
+    "static/media/helvetica-neu.ttf": "/portfolio-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/portfolio-website/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/portfolio-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/portfolio-website/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/portfolio-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portfolio-website/index.html",
-    "main.f855e6bc.css.map": "/portfolio-website/static/css/main.f855e6bc.css.map",
-    "main.95019890.js.map": "/portfolio-website/static/js/main.95019890.js.map",
-    "453.aac68abc.chunk.js.map": "/portfolio-website/static/js/453.aac68abc.chunk.js.map"
+    "main.0ee18050.css.map": "/portfolio-website/static/css/main.0ee18050.css.map",
+    "main.526123f7.js.map": "/portfolio-website/static/js/main.526123f7.js.map",
+    "787.67b99310.chunk.js.map": "/portfolio-website/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.95019890.js"
+    "static/css/main.0ee18050.css",
+    "static/js/main.526123f7.js"
   ]
 }
