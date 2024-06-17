@@ -37,10 +37,21 @@
       opacity: 0.6;
     }
 
-    img {
+    #image1 {
       margin-left: 20px;
       opacity: 0;
-      width: 32px;
+      width: 50px;
+      height: auto;
+      vertical-align: -7px;
+      animation: rotateIn 1s linear both;
+      animation-delay: 1.4s;
+    }
+
+    #image2 {
+      opacity: 0;
+      width: 50px;
+      vertical-align: -7px;
+      margin-left: -10px;
       height: auto;
       animation: rotateIn 1s linear both;
       animation-delay: 1.4s;

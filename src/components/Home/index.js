@@ -11,7 +11,6 @@ const Home = () => {
 
   const nameArray = ['e', 'e', 'p', 'a', 'k']
   const jobArray = [
-    'D',
     'a',
     't',
     'a',
@@ -44,7 +43,7 @@ const Home = () => {
             <br />
             <span className={`${letterClass} _13`}>I</span>
             <span className={`${letterClass} _14`}>'m</span>
-            <img
+            <img id="image1"
               src={LogoTitle}
               alt="JavaScript Developer Name, Web Developer Name"
             />
@@ -54,6 +53,10 @@ const Home = () => {
               idx={15}
             />
             <br />
+            <img id="image2"
+              src={LogoTitle}
+              alt="JavaScript Developer Name, Web Developer Name"
+            />
             <AnimatedLetters
               letterClass={letterClass}
               strArray={jobArray}
