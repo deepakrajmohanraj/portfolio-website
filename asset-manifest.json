@@ -1,10 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.bed8e7c6.css",
-    "main.js": "/portfolio-website/static/js/main.1c9f7823.js",
+    "main.js": "/portfolio-website/static/js/main.0e1b0272.js",
     "static/js/787.67b99310.chunk.js": "/portfolio-website/static/js/787.67b99310.chunk.js",
     "static/media/my-photo.png": "/portfolio-website/static/media/my-photo.fae68f67033e74e6c4ef.png",
+    "static/media/Buffalo.png": "/portfolio-website/static/media/Buffalo.446ffb5dd8cc73cdcbe6.png",
+    "static/media/Time series.png": "/portfolio-website/static/media/Time series.7c0aa50a94fbe434903e.png",
     "static/media/logo-s.png": "/portfolio-website/static/media/logo-s.39d9115e420f1103a9bf.png",
+    "static/media/Melanoma.png": "/portfolio-website/static/media/Melanoma.86ed1ff42db1b64de2df.png",
+    "static/media/Car.png": "/portfolio-website/static/media/Car.0a1317d9e8b9417548b9.png",
+    "static/media/Credit default.png": "/portfolio-website/static/media/Credit default.4217814a10b1f7c59485.png",
     "static/media/helvetica-neu.ttf": "/portfolio-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/portfolio-website/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/LaBelleAurore.woff2": "/portfolio-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
@@ -12,11 +17,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/portfolio-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portfolio-website/index.html",
     "main.bed8e7c6.css.map": "/portfolio-website/static/css/main.bed8e7c6.css.map",
-    "main.1c9f7823.js.map": "/portfolio-website/static/js/main.1c9f7823.js.map",
+    "main.0e1b0272.js.map": "/portfolio-website/static/js/main.0e1b0272.js.map",
     "787.67b99310.chunk.js.map": "/portfolio-website/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bed8e7c6.css",
-    "static/js/main.1c9f7823.js"
+    "static/js/main.0e1b0272.js"
   ]
 }
